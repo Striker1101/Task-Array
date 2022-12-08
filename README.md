@@ -1,2 +1,2 @@
-# Task-Array
+# Memory card game
 react list 
